@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3tini - Martini Counter</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="title">TP1</div>
+            <div class="subtitle">Counter</div>
+        </div>
+
+        <div class="counter-display" id="counter">0</div>
+
+        <div class="buttons-group">
+            <button class="btn-add" onclick="addOne()">+ Add</button>
+            <button class="btn-subtract" onclick="subtractOne()">- Remove</button>
+        </div>
+
+        <button class="btn-reset" onclick="resetCounter()">Reset</button>
+
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-label">Total:</span>
+                <span class="stat-value" id="total">0</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Session Time:</span>
+                <span class="stat-value" id="time">0s</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
