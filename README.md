@@ -1,7 +1,7 @@
 # Rapport TP1 : Déploiement d'une Application dans le Cloud
 
-**Étudiant :** [RABII SALAH EDDINE]  
-**Date :** [27/11/2025]  
+**Étudiant :** RABII SALAH EDDINE
+**Date :** 27/11/2025
 **Plateforme :**  GitHub Pages / Netlify  
 **Matière :** Management et Gouvernance des Systèmes d'Information
 
@@ -18,33 +18,34 @@ https://tp1gsi.netlify.app/
 ## 2. Captures d'Écran des Étapes de Configuration et Déploiement
 
 ### Étape 1 : Création du Repo GitHub
-- [tp1_g_si/git.png]
-- [tp1_g_si/github.png]
+![Git - création du repo](tp1_g_si/git.png)
+![Repository GitHub](tp1_g_si/github.png)
+
 - Description : Le code source (index.html, style.css, script.js) est hébergé sur GitHub
 
 ### Étape 2 : Configuration sur netlify
-- [tp1_g_si/connect_with_github.png]
+![Connexion Netlify à GitHub](tp1_g_si/connect_with_github.png)
 - Paramètres configurés :
   - **Name** : tp1gsi
   - **Language** : Static Site
   - **Branch** : main
 
 ### Étape 3 : Déploiement en cours
-- [tp1_g_si/deploy_encours.png]
+![Déploiement en cours](tp1_g_si/deploy_encours.png)
 
 ### Étape 4 : Déploiement réussi
-- [tp1_g_si/deploy_succes.png]
-- [tp1_g_si/application.png]
+![Déploiement réussi - Netlify](tp1_g_si/deploy_succes.png)
+![Application - aperçu](tp1_g_si/application.png)
 - URL générée : https://tp1gsi.netlify.app/
 
 ---
 
 ## 3. Captures d'Écran des Métriques Cloud
-- [tp1_g_si/c1.png]
-- [tp1_g_si/c2.png]
-- [tp1_g_si/c3.png]
-- [tp1_g_si/c4.png]
-- [tp1_g_si/c5.png]
+![Métrique 1](tp1_g_si/c1.png)
+![Métrique 2](tp1_g_si/c2.png)
+![Métrique 3](tp1_g_si/c3.png)
+![Métrique 4](tp1_g_si/c4.png)
+![Métrique 5](tp1_g_si/c5.png)
 
 
 ---
