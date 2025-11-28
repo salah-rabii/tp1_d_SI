@@ -2,7 +2,7 @@
 
 **Étudiant :** RABII SALAH EDDINE
 **Date :** 27/11/2025
-**Plateforme :**  GitHub Pages / Netlify  
+**Plateforme :**  GitHub Pages / Vercel  
 **Matière :** Management et Gouvernance des Systèmes d'Information
 
 ---
@@ -10,7 +10,7 @@
 ## 1. Lien Public de l'Application Déployée
 
 ```
-https://tp1gsi.netlify.app/
+https://tp1gsi.vercel.app/
 ```
 
 ---
@@ -23,8 +23,8 @@ https://tp1gsi.netlify.app/
 
 - Description : Le code source (index.html, style.css, script.js) est hébergé sur GitHub
 
-### Étape 2 : Configuration sur netlify
-![Connexion Netlify à GitHub](tp1_g_si/connect_with_github.png)
+### Étape 2 : Configuration sur vercel
+![Connexion vercel à GitHub](tp1_g_si/connect_with_github.png)
 - Paramètres configurés :
   - **Name** : tp1gsi
   - **Language** : Static Site
@@ -34,9 +34,10 @@ https://tp1gsi.netlify.app/
 ![Déploiement en cours](tp1_g_si/deploy_encours.png)
 
 ### Étape 4 : Déploiement réussi
-![Déploiement réussi - Netlify](tp1_g_si/deploy_succes.png)
+![Déploiement réussi - vercel](tp1_g_si/deploy_succes1.png)
+![Déploiement réussi - vercel](tp1_g_si/deploy_succes.png)
 ![Application - aperçu](tp1_g_si/application.png)
-- URL générée : https://tp1gsi.netlify.app/
+- URL générée : https://tp1gsi.vercel.app/
 
 ---
 
@@ -63,8 +64,8 @@ https://tp1gsi.netlify.app/
 - Git installé localement
 - Coûts matériels
 
-**Environnement Cloud (netlify) :**
-- Serveurs distants gérés par netlify
+**Environnement Cloud (vercel) :**
+- Serveurs distants gérés par vercel
 - Équilibreur de charge
 - Monitoring et logs centralisés
 - Coûts : Gratuit ou pay-as-you-go
@@ -77,7 +78,7 @@ https://tp1gsi.netlify.app/
 - Maintenance matérielle
 - Sauvegardes manuelles
 
-**Environnement Cloud (netlify) :**
+**Environnement Cloud (vercel) :**
 - Connaissances Git/GitHub
 - Monitoring et logging
 
